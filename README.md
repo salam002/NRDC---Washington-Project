@@ -1,5 +1,4 @@
-# NRDC Washington Decarbonization Project
+# National Resources Defense Council - Washington Decarbonization Project
 Data Analysis of Low-Income Building Decarbonization in Washington State
 
-This was my first experience coding for an actual research project. As can be seen with the code, I was not particularly efficient with writing succinct programs and
-utilizing libraries including Pandas, Seaborn, and Matplotlib. Nevertheless, much of this project was self-directed and allowed for technical and team growth. 
+My first experience using Colab and Pandas! The code extremeley messy and inefficiently written, nevertheless, I was able to draw insights from IPUMS data. I would approach this project differently today, but it was definitely a fantastic learning opportunity. 
